@@ -23,3 +23,5 @@ Ideāli piemērots datorentuziastiem, izstrādātājiem, spēlētājiem vai jebk
 🔹 NVIDIA GPU noslodzes noteikšana
 🔹 Tīrs un atsaucīgs interfeiss
 🔹 Iziešana ar q + Enter jebkurā brīdī
+
+![22](https://github.com/user-attachments/assets/900ad91d-5b1e-4419-9a57-8c10d0992859)
