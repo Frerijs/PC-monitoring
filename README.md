@@ -1,4 +1,5 @@
-💻 System Resource Monitor | Sistēmas resursu monitors
+💻 System Resource Monitor | Sistēmas resursu monitors 
+
 EN:
 A lightweight and interactive system resource monitor that runs in your terminal or as a minimalist GUI.
 Track your CPU, RAM, and GPU usage in real-time with dynamic color-coded bars and visual sparklines.
