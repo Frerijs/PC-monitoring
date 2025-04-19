@@ -1,2 +1,2 @@
-python režīms izmantojot CMD, Avaconta, ...
+python režīms izmantojot Anaconda
 GUI režīms --gui
